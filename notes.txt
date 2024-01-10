@@ -1,0 +1,9 @@
+bugs
+
+next week - contains week number, convert to date  ✅
+next month - sorted ✅
+fixed time to call -  duration settings PT20M for mins, P2W for weeks, P2M for months ✅
+for midweek , use a reference date ✅
+for date suggestions - trying to find logic
+no availability plus date suggestions
+
